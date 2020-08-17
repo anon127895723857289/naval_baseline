@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e09eeb0-0574-4c1e-ae18-8ef7cedd3f0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/log_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_MC_rmse_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_MC_rmse_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_MC_rmse_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_ll_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_ll_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_ll_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_rmse_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_rmse_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_rmse_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_tau_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_tau_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/test_tau_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_MC_rmse_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_MC_rmse_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_MC_rmse_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_ll_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_ll_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_ll_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_rmse_100_xepochs_1_hidden_layers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_rmse_10_xepochs_4_hidden_layers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UCI_Datasets/naval-propulsion-plant/results/validation_rmse_10_xepochs_4_hidden_layers.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="382c4939-ec88-49db-bbf2-bafa86f230ec" />
+  <component name="ProjectId" id="1gDZH3Cds2ZVhFI5uFsGeKTUXwb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="experiment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DropoutUncertaintyExps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment.py" />
+      <option name="PARAMETERS" value="-d &quot;naval-propulsion-plant&quot; -nh 4 -e 10" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.experiment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e09eeb0-0574-4c1e-ae18-8ef7cedd3f0b" name="Default Changelist" comment="" />
+      <created>1597651034911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597651034911</updated>
+      <workItem from="1597651036666" duration="3826000" />
+    </task>
+    <task id="LOCAL-00001" summary="Active learning simulation">
+      <created>1597653916980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597653916980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Active learning simulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Active learning simulation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597654864057">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="562" y="309" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597654864057" />
+    <state x="332" y="99" width="1246" height="906" key="CommitChangelistDialog2" timestamp="1597653916552">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="332" y="99" width="1246" height="906" key="CommitChangelistDialog2/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597653916552" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1597654208748">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597654208748" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1597654208748">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597654208748" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1597654208748">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597654208748" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1597654208748">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597654208748" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1597651793812">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597651793812" />
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597653922822">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.30.1680.1050@0.27.1920.1053" timestamp="1597653922822" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DropoutUncertaintyExps$experiment.coverage" NAME="experiment Coverage Results" MODIFIED="1597654208738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
